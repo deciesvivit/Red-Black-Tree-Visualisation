@@ -1,0 +1,23 @@
+.inputContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.inputField {
+    padding: 10px;
+    background-color: white;
+    border-radius: 10px;
+    
+}
+
+.inputButton {
+    padding: 13px;
+    margin-left: 5px;
+    border: 0px;
+    border-radius: 10px;
+    background-color: yellow;
+}
+
